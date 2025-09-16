@@ -1,0 +1,15 @@
+# See https://github.com/github/gitignore/blob/main/Node.gitignore
+node_modules/
+.build/
+dist/
+build/
+.vite/
+.DS_Store
+.env
+.env.*
+*.local
+coverage/
+.vercel/
+.next/
+*.log
+.npmrc
